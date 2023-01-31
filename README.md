@@ -8,3 +8,6 @@ Tools:
     2. CSS
     3. Bootstrap
     4. Angular
+    5.amgular
+    6.React
+    7.javascript
